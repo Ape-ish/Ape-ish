@@ -8,7 +8,7 @@ My core philosophy: **Security and reliability shouldn't be bottlenecks; they sh
 ## 🎯 What I Bring to the Table
 * **Technical Translation:** I excel at breaking down complex compliance frameworks (like CIS v8.1) into digestible, actionable steps for non-technical leadership. 
 * **Systems Architecture & Defense:** Backed by my **CompTIA CASP+** and **WGU BSCSIA degree**, I understand how to architect secure environments and hunt for anomalies before they become critical failures.
-* **Workflow Automation:** Leveraging Python `[Inference: building on WGU ITEC D335 foundations]` and Linux command-line tools to reduce manual analysis time and eliminate operational friction.
+* **Workflow Automation:** Leveraging Python and Linux command-line tools to reduce manual analysis time and eliminate operational friction.
 * **High-Stakes Communication:** Accustomed to managing complex, multi-system workflows and critical communications in fast-paced healthcare and logistics environments.
 
 ## 🛠️ The Technical Dojo (Currently Building)
